@@ -30,28 +30,28 @@ Supermassive blackholes like the one at the center of our galaxy [[Sagittarius A
 # Types of black holes:
 **By mass (the main classification)**
 
-1. **Stellar-mass black holes**
+==1. **Stellar-mass black holes**==
     - Formed when a massive star (roughly 20+ times the Sun's mass) runs out of fuel and its core collapses under gravity
     - Typically a few to ~100 solar masses
     - Most common type we've directly detected, often through gravitational waves (LIGO) when two of them merge
 
-2. **Supermassive black holes**
+2. ==**Supermassive black holes==**
     - Millions to billions of solar masses
     - Sit at the center of most galaxies, including ours (Sagittarius A*, ~4 million solar masses)
     - How they formed is still genuinely debated — direct collapse of massive gas clouds, mergers of smaller black holes, or rapid early-universe growth are all candidate theories
     - The famous 2019 Event Horizon Telescope image was of M87*, a supermassive black hole
 
-3. **Intermediate-mass black holes**
+3. **==Intermediate-mass black holes==**
     - Hundreds to ~100,000 solar masses
     - The "missing link" — for a long time these were mostly theoretical since they're hard to detect, but there's growing observational evidence for them now (some found via gravitational waves, some in dense star clusters)
 
-4. **Primordial black holes**
+4. **==Primordial black holes==**
     - Purely hypothetical — theorized to have formed from density fluctuations in the very early universe, not from stellar collapse
     - Could range from tiny (asteroid-mass) to large
     - Interesting because tiny ones are sometimes proposed as a dark matter candidate, though this isn't confirmed
 
 ---
 # [[Time Dilation]] near a black hole:
-As an object goes closer to the [[Event Horizon]] due to the intense gravitational potential time slows down for you when viewed by someone outside the [[Event Horizon]].
+As an object goes closer to the [[Event Horizon]] due to the intense gravitational potential ==time slows down for you== when viewed by someone outside the [[Event Horizon]].
 
 The person outside the [[Event Horizon]] would see you as frozen as you slowly [[Red Shift]] and fade out
