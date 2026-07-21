@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "164df5faddfa9eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a487584db90af2b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c158978432546a0e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "021002171b7aacdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "982257e4d1d8b9da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c47aacda4d20f3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "93fd8ee37d8ae26a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f8fd23d37525e3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f797f21d11b3ab98",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab84a6be72c7db4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2393e11cd7762882",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "77dea2fab3c40dec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "256287c84c356f2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b1d56e5c629bd2e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "67be1ee797cbba53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c158978432546a0e",
+  "lastOpenFiles": [
+    "README.md",
+    "Spaghettification.md",
+    "Concepts/Introduction to Black Holes.md",
+    "Concepts/Tidal Force.md",
+    "Concepts/The Tolman-Oppenheimer-Volkoff (TOV) limit.md",
+    "Concepts/M87-star.md",
+    "Concepts/The Big Bang.md",
+    "Pictures/M87-star.png",
+    "Concepts/Singularity.md",
+    "Concepts/Schwarzschild Radius.md",
+    "Concepts/Event Horizon Telescope (EHT).md",
+    "Concepts/Sagittarius A-star.md",
+    "Pictures/Sgr A-star.png",
+    "Concepts/Chandrasekhar Limit.md",
+    "Pictures/Penrose Diagram.png",
+    "Concepts/Neutron Degeneracy Pressure.md",
+    "Concepts/Event Horizon.md",
+    "Pictures/Event Horizon.webp",
+    "Pictures/Unconfirmed 465945.crdownload",
+    "Pictures/River Model.png",
+    "Pictures",
+    "singularity.md",
+    "Concepts/Electron Degeneracy Pressure.md",
+    "Template.md",
+    "Projects",
+    "Weekly Logs",
+    "Concepts",
+    "Welcome.md"
+  ]
+}

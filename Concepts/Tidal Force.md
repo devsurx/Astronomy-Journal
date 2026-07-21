@@ -1,0 +1,1 @@
+Tidal forces near a black hole are ==extreme stretching and squeezing forces caused by a steep difference in gravity across an object==. When an object falls toward a black hole, the gravity pulling on its near side is so much stronger than on its far side that it tears the object apart

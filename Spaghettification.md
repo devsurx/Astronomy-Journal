@@ -1,0 +1,1 @@
+Spaghettification is the ==extreme stretching and compressing of an object caused by intense gravitational tidal forces near a black hole==. As you fall in, gravity pulls significantly harder on the part of your body closest to the black hole compared to the part farther away, ripping you into a thin string.

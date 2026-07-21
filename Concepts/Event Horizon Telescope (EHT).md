@@ -1,0 +1,1 @@
+==**Event Horizon Telescope (EHT)**==. The EHT isn't a single telescope; it is a global network of eight radio observatories linked together to create a single, "Earth-sized" virtual telescope.

@@ -1,0 +1,1 @@
+Outward quantum mechanical pressure that prevents neutron stars from collapsing under their own massive gravity.

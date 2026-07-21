@@ -1,0 +1,1 @@
+The maximum mass a neutron star can have before gravity overcomes the [[Neutron Degeneracy Pressure]] and collapses into a black hole

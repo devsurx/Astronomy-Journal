@@ -1,0 +1,1 @@
+The critical size to which any object or mass must be compressed to become a black hole
