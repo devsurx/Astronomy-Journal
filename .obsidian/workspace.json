@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a487584db90af2b9",
+        "id": "7b4ea6ebb5f31043",
         "type": "tabs",
         "children": [
           {
-            "id": "c158978432546a0e",
+            "id": "208f4daef58e7ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158978432546a0e",
+  "active": "208f4daef58e7ee6",
   "lastOpenFiles": [
     "README.md",
     "Concepts/Spaghettification.md",

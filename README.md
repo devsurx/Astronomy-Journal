@@ -1,4 +1,4 @@
-# Physics Journal
+# Astronomy Journal
 
 A personal Obsidian vault for learning theoretical physics — starting with special/general relativity and black holes — through active journaling, concept linking, and small coding projects.
 
