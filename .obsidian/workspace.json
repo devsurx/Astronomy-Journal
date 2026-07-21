@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad29b433813abd50",
+            "id": "236e1b1a06e5e796",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Introduction to Black Holes"
             }
-          },
-          {
-            "id": "236e1b1a06e5e796",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Introduction to Black Holes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Introduction to Black Holes"
             }
           },
           {
@@ -123,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts/Introduction to Black Holes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Introduction to Black Holes"
             }
           },
           {
@@ -165,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Concepts/Introduction to Black Holes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Introduction to Black Holes"
             }
           },
           {
