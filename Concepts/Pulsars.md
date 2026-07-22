@@ -15,4 +15,3 @@ A pulsar is a **rapidly spinning neutron star** that sends out beams of radiatio
 - These electrons are flung at the surface at ==near light speed== ; they emit radiation (curvature radiation) which comes out as beams from the poles
 - Since the magnetic pole is tilted, as the star rotates the beam makes a circle
 
-
