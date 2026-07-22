@@ -11,14 +11,10 @@
             "id": "6866cdef7633ef7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Pulsars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pulsars"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -194,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6866cdef7633ef7d",
+  "active": "7c47aacda4d20f3c",
   "lastOpenFiles": [
+    "Pictures/The storm that is approaching.webp",
+    "Pictures/Unconfirmed 111575.crdownload",
     "Concepts/Pulsars.md",
     "Concepts/Introduction to Black Holes.md",
     "Concepts/Singularity.md",
