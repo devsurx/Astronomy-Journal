@@ -2,6 +2,7 @@
 # Definition: 
 - Einstein's theory of relativity
 	- Extreme distortions in space and time, with a gravitational pull so strong that once an object crosses the [[Event Horizon]] it cannot escape no matter the speed
+	- It forms a disk like structure around itself from gas and dust from its surroundings called the [[Accretion Disk]]
 
 
 ---
