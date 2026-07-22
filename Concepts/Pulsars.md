@@ -1,0 +1,1 @@
+A pulsar is a **rapidly spinning neutron star** that sends out beams of radiation from its magnetic poles — and because those beams sweep around like a lighthouse as it spins, we see a regular "pulse" if one happens to point at Earth.	

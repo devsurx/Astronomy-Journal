@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "136c9d85fe1c1fdb",
+            "id": "6866cdef7633ef7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Pulsars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pulsars"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Pulsars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pulsars"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts/Pulsars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pulsars"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Concepts/Pulsars.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pulsars"
             }
           },
           {
@@ -187,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "136c9d85fe1c1fdb",
+  "active": "6866cdef7633ef7d",
   "lastOpenFiles": [
+    "Concepts/Pulsars.md",
     "Concepts/Introduction to Black Holes.md",
     "Concepts/Singularity.md",
     "Concepts/Time Dilation.md",
