@@ -11,10 +11,14 @@
             "id": "6866cdef7633ef7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Pulsars.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pulsars"
             }
           }
         ]
@@ -190,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33b41ef4394c0c16",
+  "active": "6866cdef7633ef7d",
   "lastOpenFiles": [
+    "Pictures/Pulsar.png",
+    "Concepts/Pulsars.md",
+    "Concepts/Angular Momentum.md",
     "Pictures/The storm that is approaching.webp",
     "Pictures/Unconfirmed 111575.crdownload",
-    "Concepts/Pulsars.md",
     "Concepts/Introduction to Black Holes.md",
     "Concepts/Singularity.md",
     "Concepts/Time Dilation.md",

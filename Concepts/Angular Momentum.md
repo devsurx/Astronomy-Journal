@@ -1,0 +1,1 @@
+A spinning system keeps spinning unless something acts to slow it down.
