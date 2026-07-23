@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6a587dbae015a4",
+        "id": "68c659a19101dc4e",
         "type": "tabs",
         "children": [
           {
-            "id": "d241d08d8e2dc651",
+            "id": "c990ad226633ef31",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -190,23 +192,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33b41ef4394c0c16",
+  "active": "c990ad226633ef31",
   "lastOpenFiles": [
+    "Concepts/The Tolman-Oppenheimer-Volkoff (TOV) limit.md",
+    "Concepts/Pulsars.md",
+    "Concepts/Time Dilation.md",
+    "Concepts/Black Holes.md",
     "Other.md",
     "Concepts/Red Shift.md",
-    "Concepts/Introduction to Black Holes.md",
     "Concepts/Quasar.md",
     "Concepts/Accretion Disk.md",
-    "Concepts/Time Dilation.md",
     "Quasar",
-    "Concepts/Pulsars.md",
     "Pictures/Pulsar.png",
     "Concepts/Angular Momentum.md",
     "Pictures/The storm that is approaching.webp",
     "Pictures/Unconfirmed 111575.crdownload",
     "Concepts/Singularity.md",
     "Concepts/Chandrasekhar Limit.md",
-    "Concepts/The Tolman-Oppenheimer-Volkoff (TOV) limit.md",
     "Concepts/The Big Bang.md",
     "Concepts/Spaghettification.md",
     "Pictures/River Model.png",
